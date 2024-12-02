@@ -62,6 +62,6 @@
 ---
 
 ## 📫 Contact
-- **Email**: namkyubeom@example.com
+- **Email**: beom000124@gmail.com
 
 ---
