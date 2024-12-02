@@ -8,7 +8,7 @@
   - M.S. in Computer Science, Sogang University (2025~)
 - 💼 **Current Role**: Aspiring AI/ML Researcher
 - 🌱 **Interests**: Natural Language Processing (NLP), Deep Learning, Data Augmentation
-- 📌 **Activities**:
+- 📁  **Projects**:
   - LG AImers 5th
   - Smart Influencer Recommendation System for One-Person Media (Hansung Univ. IACF)
 ---
