@@ -1,4 +1,4 @@
-# 🌟 남규범 | Nam Kyubeom
+# 🌟 남규범 | KyuBeom Nam
 
 ---
 
@@ -43,7 +43,7 @@
 <table>
 <tr>
     <td>📈 <strong>GitHub Stats</strong></td>
-    <td>💻 <strong>Baekjoon Tier</strong></td>
+    <td>💻 <strong>Solved.ac</strong></td>
 </tr>
 <tr>
     <td>
