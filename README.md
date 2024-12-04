@@ -5,7 +5,7 @@
 ## 📜 About Me
 - 🎓 **Education**:
   - B.S. in Computer Science, Hansung University (2018~2022)
-  - M.S. in Computer Science, Sogang University (2025~)
+  - M.S. Student, Computer Science, Sogang University (2025~)
 - 💼 **Current Role**: Aspiring AI/ML Researcher
 - 🌱 **Interests**: Natural Language Processing (NLP), Deep Learning, Data Augmentation
 - 📁  **Projects**:
