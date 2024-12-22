@@ -43,7 +43,7 @@
 <table>
 <tr>
     <td>📈 <strong>GitHub Stats</strong></td>
-    <td>💻 <strong>Solved.ac</strong></td>
+    <td>💻 <strong>BOJ</strong></td>
 </tr>
 <tr>
     <td>
